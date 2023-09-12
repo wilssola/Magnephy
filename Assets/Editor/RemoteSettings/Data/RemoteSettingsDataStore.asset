@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0e893c667724814cbbae306609c3635, type: 3}
+  m_Name: RemoteSettingsDataStore
+  m_EditorClassIdentifier: 
+  rsKeyList:
+  - key: Ads
+    value: false
+    type: bool
+  - key: AndroidID
+    value: ca-app-pub-3940256099942544~3347511713
+    type: string
+  - key: IphoneID
+    value: ca-app-pub-3940256099942544~1458002511
+    type: string
+  - key: AndroidBannerUnitID
+    value: ca-app-pub-3940256099942544/6300978111
+    type: string
+  - key: IphoneBannerUnitID
+    value: ca-app-pub-3940256099942544/2934735716
+    type: string
+  - key: AndroidRewardBasedVideoUnitID
+    value: ca-app-pub-3940256099942544/5224354917
+    type: string
+  - key: IphoneRewardBasedVideoUnitID
+    value: ca-app-pub-3940256099942544/1712485313
+    type: string
+  - key: BlueColor
+    value: 00AFFFFF
+    type: string
+  - key: RedColor
+    value: C30000FF
+    type: string
+  - key: BlackColor
+    value: 000000FF
+    type: string
+  - key: YellowColor
+    value: AF6405FF
+    type: string
